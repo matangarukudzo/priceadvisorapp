@@ -90,3 +90,4 @@ with st.expander("Model comparison (12-month backtest, lower is better)"):
                  hide_index=True)
     st.caption("The best model is selected automatically. Prices are in USD to avoid ZWL/ZiG currency distortions. "
                "Forecasts are estimates, not guarantees.")
+
